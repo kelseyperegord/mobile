@@ -87,7 +87,7 @@ body > header{
     background-color: navy;
 }
 
-.about h2, .events h2, .e-board h2, .records-main h2{
+.about h1, .events h1, .e-board h1, .records-main h1{
     grid-column: 1 / -1;
     grid-row: 1 / span 1;
     text-align: center;
@@ -162,7 +162,7 @@ body > header{
     background-color: navy;
 }
 
-.events h2{
+.events h1{
     grid-row: 1 / span 1;
     grid-column: 1 / -1;
     padding: 10px;
