@@ -16,7 +16,7 @@ footer{
     border-top: 3px solid #FFCB05;
   }
 
-a.skip{
+/* a.skip{
     background: white;
     left: 0;
     padding: 6px;
@@ -31,7 +31,7 @@ a.skip:focus{
     top:20px;
     color: black;
     text-decoration-style: solid;
-  }
+  } */
 
 *:focus{
     border: 2px solid #FFCB05;
